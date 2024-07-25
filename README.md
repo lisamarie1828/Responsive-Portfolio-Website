@@ -1,1 +1,1 @@
-CodeSandbox Link: https://ptw7sd.csb.app/.html
+This is a Personal Portfolio Website about me: Lisa-Marie, artist
