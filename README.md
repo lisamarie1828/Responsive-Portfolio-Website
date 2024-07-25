@@ -1,3 +1,1 @@
-Responsive Portfolio Website 
-
-Projektlink: https://ptw7sd.csb.app/.html
+CodeSandbox Link: https://ptw7sd.csb.app/.html
