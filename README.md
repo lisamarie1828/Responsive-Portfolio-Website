@@ -1,3 +1,3 @@
-Responsive Personal Portfolio Website 
+Responsive Portfolio Website 
 
 Projektlink: https://ptw7sd.csb.app/.html
